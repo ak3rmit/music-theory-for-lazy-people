@@ -29,3 +29,47 @@ Same principles as Major apply besides now you go
 Minor: whole whole whole half whole whole half
 
 C, D, E♭, F, G, A♭, B♭
+
+## Chords or Triads
+Chords or Triads are 3 Tones in a Scale 
+
+e.g C Minor Scale  you just skip one Note of the scale and play them
+
+C Minor Chord
+C E♭ G
+
+D Minor
+D F A♭
+...
+
+Now you can play a little around any chord you play in this scale will now sound good together
+
+
+## Major Triads
+
+1: Major I
+2: Minor ii 
+3: Minor iii
+4: Major IV
+5: Major V
+6: Minor vi
+7: Diminished(you don't really need that at first)
+
+
+You often see these Latin Numbers in Musik. They just refer to chord in a scale. Since there are 7 notes in a Scale.
+You can now search for a song pick out the chords and play the same relative in the same key over the whole keyboard.
+
+
+## Inversion
+
+You will jump a lot when playing like this. It often sounds better to just play the same chord slightly higher instead of going to many semitones up. So we can make us of "Inversion"
+
+Let's say we have the C Major Key
+C E G 
+This chord could also be played as:
+E G C
+or 
+G C E
+
+
+## Melodie
