@@ -48,11 +48,17 @@ Now you can play a little around any chord you play in this scale will now sound
 ## Major Triads
 
 1: Major I
+
 2: Minor ii 
+
 3: Minor iii
+
 4: Major IV
+
 5: Major V
+
 6: Minor vi
+
 7: Diminished(you don't really need that at first)
 
 
