@@ -79,3 +79,18 @@ G C E
 
 
 ## Melodie
+
+Often Pentatonics sound good as melodie.
+Also often it is good that the melodie ends of an note in the played scale.
+Try to remove the 5th and 7th note of a scale. Often sounds really good.
+
+
+## TO-Do
+
+- Add Phyrigian etc....
+- Write out all Scales
+- More Images
+- How to practice?
+- Add 5ths
+- Add Subdominance 
+- etc...
