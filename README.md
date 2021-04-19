@@ -1,4 +1,4 @@
-# music-theory-for-lazy-people-
+# music-theory-for-lazy-people
 Tired of very complex explained music theory? The basics are much easier then you think!
 The good news is that there are only 12 notes that humans find sound pleasing to your ear.
 
