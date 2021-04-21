@@ -83,7 +83,6 @@ G C E
 Often Pentatonics sound good as melodie.
 Also often it is good that the melodie ends of an note in the played scale.
 Try to remove the 5th and 7th note of a scale. Often sounds really good.
-![music_chords_in_the_key_of_a_b_c_d_e_f_g_flat_sharp_minor-727x1024](https://user-images.githubusercontent.com/71754820/115588858-7af8fc80-a2cf-11eb-8de6-f3c9d20e257e.png)
 
 
 ## Chords Picture
