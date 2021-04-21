@@ -83,7 +83,14 @@ G C E
 Often Pentatonics sound good as melodie.
 Also often it is good that the melodie ends of an note in the played scale.
 Try to remove the 5th and 7th note of a scale. Often sounds really good.
+![music_chords_in_the_key_of_a_b_c_d_e_f_g_flat_sharp_minor-727x1024](https://user-images.githubusercontent.com/71754820/115588858-7af8fc80-a2cf-11eb-8de6-f3c9d20e257e.png)
 
+
+## Chords Picture
+![pianochart](https://user-images.githubusercontent.com/71754820/115588572-2f465300-a2cf-11eb-869d-f793ed570792.png)
+![music_chords_in_the_key_of_a_b_c_d_e_f_g_flat_sharp_major-765x1024](https://user-images.githubusercontent.com/71754820/115588916-89dfaf00-a2cf-11eb-973e-bc4b1a707e52.png)
+![music_chords_in_the_key_of_a_b_c_d_e_f_g_flat_sharp_minor-727x1024](https://user-images.githubusercontent.com/71754820/115588928-8d733600-a2cf-11eb-807e-c060bd5b38b8.png)
+Thanks @ http://www.piano-keyboard-guide.com/chords-by-key.html
 
 ## TO-Do
 
